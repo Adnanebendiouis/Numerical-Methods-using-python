@@ -1,0 +1,1 @@
+lireMatrice(N,B)
