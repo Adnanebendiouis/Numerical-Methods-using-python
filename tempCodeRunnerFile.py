@@ -1,1 +1,1 @@
-lireMatrice(N,B)
+lire_matrice_et_vecteur
